@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "imgUrl": "../assets/images/Slider1.png",
+        "title": "Burger Hub: Where Taste Meets Perfection!",
+        "description": "Welcome to a heaven of culinary delight – the Burger Hub! Dive into a world of sensational flavors and unparalleled quality. Our signature burgers are crafted with precision and passion, using only the finest ingredients to guarantee a taste experience like no other. Your search for the perfect burger ends here – discover a symphony of taste at Burger Hub!"
+    },
+    {
+        "id": 2,
+        "imgUrl": "../assets/images/Slider4.png",
+        "title": "Sip & Savor: Thirst-Quenching Elixirs at Burger Hub!",
+        "description": "Elevate your burger experience with our refreshing array of beverages at Burger Hub! Quench your thirst with our handcrafted drinks, carefully curated to complement the bold flavors of our gourmet burgers. From zesty artisanal sodas to exotic fruit-infused mocktails, our drink menu is a symphony of tastes designed to enhance your culinary journey."
+    },
+    {
+        "id": 3,
+        "imgUrl": "../assets/images/Slider3.png",
+        "title": "Sweet Symphonies: Dessert Delights at Burger Hub!",
+        "description": "Indulge your sweet tooth in a world of delectable treats at Burger Hub! Our dessert menu is a celebration of irresistible flavors and heavenly delights that will satisfy your cravings. From decadent shakes and artisanal sundaes to mouthwatering pastries, every dessert is a masterpiece crafted to perfection. Treat yourself to the grand finale of your meal with our exquisite desserts, where sweetness meets sophistication."
+    },
+    {
+        "id": 4,
+        "imgUrl": "../assets/images/Slider2.png",
+        "title": "Chill & Thrill: Cold Drinks Oasis at Burger Hub!",
+        "description": "Beat the heat and elevate your burger experience with our refreshing cold drinks at Burger Hub! Dive into a world of cool, crisp, and flavorful beverages that perfectly complement the bold taste of our gourmet burgers. From icy sodas to exotic iced teas, our drink menu is a symphony of refreshing options designed to quench your thirst and tantalize your taste buds."
+    }
+]
